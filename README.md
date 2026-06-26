@@ -1,6 +1,6 @@
 # PMSN
 
-Official implementation for **PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**, submitted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
+Official implementation for **PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**, accepted by to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 
 
 ## Repository Layout
