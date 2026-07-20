@@ -3,10 +3,6 @@
 Official implementation of **PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**, accepted for publication in **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 
 <p align="center">
-  <img src="mainfig.pdf" width="100%" alt="Overview of the Parallel Multi-compartment Spiking Neuron">
-</p>
-
-<p align="center">
   <a href="[https://arxiv.org/abs/2408.14917](https://ieeexplore.ieee.org/abstract/document/11604167)">
   <img src="https://img.shields.io/badge/IEEE%20TNNLS-10.1109/TNNLS.2026.3708510-success.svg" alt="TNNLS">
   </a>
@@ -14,9 +10,14 @@ Official implementation of **PMSN: A Parallel Multi-compartment Spiking Neuron f
   <img src="https://img.shields.io/badge/arXiv-2408.14917-b31b1b.svg" alt="arXiv">
 </p>
 
+<p align="center">
+  <img src="mainfig.png" width="100%" alt="Overview of the Parallel Multi-compartment Spiking Neuron">
+</p>
+
 ## Overview
 
 PMSN is a generalized multi-compartment spiking neuron designed for efficient multi-scale temporal processing. It incorporates interactions among neuronal compartments while supporting parallel training across time.
+
 
 Key features include:
 
